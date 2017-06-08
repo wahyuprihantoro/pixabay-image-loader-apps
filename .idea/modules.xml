@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Pixabay.iml" filepath="$PROJECT_DIR$/Pixabay.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pixabay-image-loader-apps.iml" filepath="$PROJECT_DIR$/pixabay-image-loader-apps.iml" />
     </modules>
   </component>
 </project>
